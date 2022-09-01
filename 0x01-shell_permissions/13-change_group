@@ -1,0 +1,2 @@
+chmod #!/bin/bash
+chgrp school hello
